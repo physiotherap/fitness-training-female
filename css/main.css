@@ -2470,7 +2470,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 767px) {
   .banner-left {
-    margin-top: 100px;
+    margin-top: 40px;
   }
 }
 
@@ -4483,3 +4483,28 @@ dl.accordion.time-line:before {
 }
 
 /*-------- end footer Area -------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+.social-icons {
+  margin: 10px 0 40px;
+}
+
+
+.social-icons a {
+  font-size: 28px;
+  margin: 0 20px;
+}
+
+.social-wrapper {
+  margin-top: 30px;
+}
